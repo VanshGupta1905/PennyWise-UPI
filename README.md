@@ -1,7 +1,7 @@
 # PennyWise-UPI
 
  ## Project Link
-    https://penny-wise-upi.streamlit.app/
+   https://penny-wise-upi.streamlit.app/
 
 ### UPI Application with Payment Analysis Dashboard
 
