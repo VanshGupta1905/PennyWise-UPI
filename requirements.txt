@@ -1,0 +1,5 @@
+streamlit==1.14.2
+pandas==1.5.2 
+numpy==1.23.5 
+plotly==5.10.2 
+qrcode==22.3.1 
