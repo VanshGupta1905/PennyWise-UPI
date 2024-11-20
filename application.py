@@ -8,7 +8,7 @@ import numpy as np
 import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
-
+st.set_page_config(page_title="Herbal Assistant", layout="wide")
 choose=st.sidebar.selectbox("Choose",['UPI','Payment Services Analyis','My Payment Analysis'])
 if choose=='UPI':
     st.sidebar.title("UPI Application")
