@@ -45,7 +45,7 @@ Explore personal financial data (with dummy records):
 ## Demo Instructions 👨‍💻
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/upi-dashboard.git
+   git clone https://github.com/VanshGupta1905/PennyWise-UPI.git
    cd upi-dashboard
    ```
 2. Install the required libraries:
