@@ -1,9 +1,9 @@
-# PennyWise-UPI
+# PennyWise-UPI 
 
- ## Project Link
+## Project Link
    https://penny-wise-upi.streamlit.app/
 
-### UPI Application with Payment Analysis Dashboard
+# UPI Application with Payment Analysis Dashboard 🏛️
 
 Welcome to the **UPI Application with Payment Analysis Dashboard**! This project combines a UPI-like system for managing user accounts and transactions with interactive dashboards to analyze payment trends. 🎉
 
