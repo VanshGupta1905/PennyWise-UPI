@@ -165,8 +165,7 @@ if choose=='UPI':
 
     st.sidebar.markdown("---")
     st.sidebar.info("This is a UPI application demo.")
-    st.sidebar.markdown(" In Order to make a real transaction this app needs to be connected to IMPS API"
-                "The permission for IMPS API is only availaible to Rejistered FinTech Companies")
+    st.sidebar.markdown("In Order to make a real transaction this app needs to be connected to IMPS API. The permission for IMPS API is only available to Registered FinTech Companies.")
 
 
 if choose=='Payment Services Analysis':
