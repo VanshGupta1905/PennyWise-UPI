@@ -169,7 +169,7 @@ if choose=='UPI':
                 "The permission for IMPS API is only availaible to Rejistered FinTech Companies")
 
 
-if choose=='Payment Services Analyis':
+if choose=='Payment Services Analysis':
 
     data = pd.read_csv('data.csv')
     data_2 = pd.read_csv('data_2.csv')
